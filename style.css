@@ -50,3 +50,12 @@ section {
     z-index: 1;
     position: absolute;
 }
+
+#webcamButton {
+    background-color: #0095ff;
+    color: rgb(255, 255, 255);
+    border-radius: 6%;
+    height: 52px;
+    width: 125px;
+    border: none;
+}
